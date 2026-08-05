@@ -1,73 +1,66 @@
-# Hardik Thakar
+# 👋 Hey, I'm Hardik Thakar
 
-**Cloud Infrastructure Engineer | 7+ Years Enterprise IT Experience**
+**QA Automation Engineer | Playwright + TypeScript | 7+ Years**
 
-I architect and implement AWS cloud solutions with a focus on operational excellence, cost efficiency, and security. My work bridges the gap between "functional" and "production-ready"—ensuring every deployment is maintainable, cost-optimized, and built for scale.
+I build bulletproof automation frameworks and bridge the gap between development, QA, and cloud infrastructure. My secret sauce? 7+ years of STLC experience, topped with a zero-data-loss migration of a **300K+ user platform** to AWS. 
 
----
-
-## Engineering Principles
-
-**Cost-Conscious Architecture**  
-Every design decision considers TCO. I architect with billing dashboards open, not as an afterthought.
-
-**Security as Foundation**  
-IAM least privilege, network segmentation, and audit logging are built into the foundation—not bolted on later.
-
-**Operational Clarity**  
-Complex systems fail. I favor simple, well-documented architectures that teams can confidently maintain and evolve.
+Currently, I'm obsessed with making tests smarter—using AI to reduce flakiness and predict failures before they happen.
 
 ---
 
-## Technical Expertise
+## 🚀 What I Bring to the Table
 
-| **Cloud Platform** | AWS (EC2, S3, IAM, VPC, CloudWatch, Cost Explorer, CloudFormation) |
-| **Systems** | Linux Administration (RHEL/Ubuntu), Bash, Python |
-| **Tools & Practices** | Git, Infrastructure as Code, CI/CD, Technical Documentation |
-| **Operations** | Root Cause Analysis, Incident Response, Performance Optimization |
-
----
-
-## What Sets Me Apart
-
-**Production Experience**  
-7 years managing enterprise systems gives me perspective most cloud engineers lack. I understand capacity planning, change management, vendor SLAs, and the difference between a proof-of-concept and a system that runs at 3 AM.
-
-**Business-Aware Engineering**  
-I don't just implement technical solutions—I align infrastructure decisions with business objectives, budget constraints, and risk tolerance.
-
-**Documentation-First**  
-Every architecture decision is documented with the "why" behind it. Future teams shouldn't need to reverse-engineer my thinking.
+- **🤖 AI-Ready QA:** Building self-healing frameworks and leveraging AI to generate exhaustive test cases from user stories.
+- **☁️ Cloud-Native Testing:** I don't just test the UI; I test the infrastructure. I verify ETL pipelines, Lambda executions, and SQS queues using Playwright's APIRequestContext.
+- **📊 Data Integrity Expert:** Validated schemas across **50+ MongoDB collections** using aggregation pipelines and complex SQL—because data loss is not an option.
+- **⚡ CI/CD First:** Containerized test execution with Docker and automated pipelines via GitHub Actions & Jenkins.
 
 ---
 
-## Approach to Cloud
+## 🛠️ Tech Toolbox
 
-I build labs that simulate real production constraints: limited budgets, security requirements, compliance needs, and operational handoff considerations. 
-
-My repositories demonstrate:
-- Cost modeling and optimization strategies
-- Security hardening and compliance patterns  
-- Disaster recovery and high availability designs
-- Clear documentation for knowledge transfer
-
-This isn't tutorial-following—it's production thinking applied systematically.
+| **Primary Stack** | Playwright, TypeScript, Node.js, POM, Fixtures, Custom Waits |
+| :--- | :--- |
+| **Testing Scope** | E2E, Regression, API, Database (SQL/MongoDB), Mobile (iOS/Android), Cross-Browser |
+| **Cloud & Ops** | **AWS** (EC2, S3, IAM, Lambda, SQS, EventBridge), Docker, Linux |
+| **CI & Tools** | GitHub Actions, Jenkins, Allure, Postman, JIRA, Azure DevOps |
 
 ---
 
-## Open to Discuss
+## 💼 Career Highlights
 
-**Cloud architecture patterns** that balance cost and resilience  
-**AWS cost optimization** tactics for real workloads  
-**Security governance** in multi-account environments  
-**Career transitions** from traditional IT to cloud infrastructure
+> **Cloud Migration Maestro**  
+> *InnovateMR (Dec '22 - Feb '24)*  
+> Spearheaded the migration of a 300K+ user platform to AWS Node.js microservices. Executed rigorous ETL validation across 50+ MongoDB collections—ensuring **zero data loss** in production.
+
+> **Framework Architect**  
+> *Independent (Feb '24 - Present)*  
+> Built a Playwright + TypeScript framework from scratch using Page Object Model and APIRequestContext. Integrated Docker + GitHub Actions for seamless CI execution.
+
+> **Full-Stack Quality**  
+> *Denali & Trentium Solutions*  
+> Tested 10+ interconnected LMS modules, real-time ride-hailing apps, and EdTech platforms. Led regression cycles and defect triage for Agile release pipelines.
 
 ---
 
-📧 **hardik.thakar26@gmail.com**  
-💼 **[LinkedIn](https://www.linkedin.com/in/hardik-thakar-/)**  
-🔗 **[GitHub](https://github.com/hardikthakar26)**
+## 🔮 My Future Focus (AI + Cloud)
+
+I am actively building the next generation of QA:
+
+- **Self-Healing Locators:** Using OpenAI APIs to automatically fix broken UI selectors.
+- **AI Test Generators:** Translating plain-English Gherkin into executable Playwright scripts.
+- **Cloud Performance Labs:** Simulating AWS production load with automated JMeter/Python scripts to validate auto-scaling policies.
 
 ---
 
-*Building infrastructure that survives contact with production.*
+## 📫 Let's Connect
+
+I'm looking for roles where I can bring this **"Cloud-Meets-AI-QA"** mindset to a forward-thinking SDET or QA Architect team.
+
+- 📧 **hardik.thakar26@gmail.com**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/hardik-thakar-/)** 
+- 🐙 **[GitHub](https://github.com/hardikthakar26)**
+
+---
+
+*"Building intelligent tests that scale with the cloud."*
